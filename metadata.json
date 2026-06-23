@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cosmic Nexus",
+  "description": "A premium futuristic cinematic experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
